@@ -14,6 +14,7 @@ Note: fundraising continues until execution date even if goal is achieved
 
 - $84: A repeat of last year, the solo three and fringe
 - $100: The solo three with no fringe
+- $500: A solo buzz cut to the lowest setting possible
 - $1,000: I will contribute $500 to each fundraiser
 - $2,000: Hair clipped then head shaven (excluding my contribution)
 - $5,000: I will keep a handlebar moustache for a week (I dislike growing a moustache!)
