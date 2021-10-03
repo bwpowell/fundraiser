@@ -15,4 +15,4 @@ Note: fundraising continues until execution date even if goal is achieved
 - $84: A repeat of last year, the solo three and fringe
 - $100: The solo three with no fringe
 - $1,000: I will contribute $500 to each fundraiser
-- $2,000: Hair clipped then head shaven
+- $2,000: Hair clipped then head shaven (excluding my contribution)
