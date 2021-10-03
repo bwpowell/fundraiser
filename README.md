@@ -4,9 +4,9 @@
 
 **Fundraising causes:** 2
 
-**Goal per cause:** $42
+**Goal per cause:** $2,000
 
-**Goal total:** $84
+**Goal total:** $2,000
 
 Note: fundraising continues until execution date even if goal is achieved
 
