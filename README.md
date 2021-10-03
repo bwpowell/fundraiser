@@ -13,3 +13,5 @@ Note: fundraising continues until execution date even if goal is achieved
 **Contract:** 
 
 - $84: A repeat of last year, the solo three and fringe
+- $100: The solo three with no fringe
+- $2,000: Hair clipped then head shaven
